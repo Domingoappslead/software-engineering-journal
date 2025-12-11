@@ -104,7 +104,6 @@ Categories include:
 ### **3. references/**
 Supplemental reference materials:
 - Recommended books  
-- My learning roadmap  
 - A glossary of key engineering terms  
 
 ---
