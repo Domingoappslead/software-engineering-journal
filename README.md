@@ -1,5 +1,14 @@
 # Software Engineering Journal
 
+# Table of Contents
+- [Repository Structure (with sample files)](#repository-structure-with-sample-files)
+- [Folder Overview](#folder-overview)
+  - [1. daily-log](#1-daily-log)
+  - [2. notes](#2-notes)
+  - [3. references](#3-references)
+- [Contribution Rules (Personal)](#contribution-rules-personal)
+- [Purpose](#purpose)
+
  structured, long-term learning journal documenting my journey to becoming an effective software engineer. This repository captures all of my learning in text format: notes, explanations, daily reflections, conceptual breakdowns, and references.
 
  This journal is designed to be:
